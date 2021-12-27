@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kisancalculator</string>
+
+    <string name="lbl_access_permission_denied">Access Permission Denied</string>
+    <string name="lbl_access_permission_denied_msg">Please grant the permission to use this feature.</string>
+    <string name="lbl_enable_feature">Enable Feature</string>
+</resources>
